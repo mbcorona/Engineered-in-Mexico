@@ -5,7 +5,7 @@ javascript: (function(){
 ******************************
 `;
   var style = [
-    "background: url(./mexico.png) no-repeat",
+    "background: url(https://raw.githubusercontent.com/mbcorona/Engineered-in-Mexico/master/mexico.png) no-repeat",
     "background-size: cover",
     "background-position: center",
     "line-height: 70px"

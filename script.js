@@ -1,4 +1,4 @@
-(function(){
+javascript: (function(){
   var message = `
 ******************************
 *    Engineered in México    *
